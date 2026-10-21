@@ -6,7 +6,9 @@ Sistema de Gerenciamento e Simulador de Recarga para Veículos Elétricos (EVSE)
 - Turma: 1CCA
 - Instituição: FIAP
 - Ano: 2026
-- Integrantes:
+-------------------------------------------------------------------------------
+  
+Integrantes:
 * Lais da Silva Dias — RM 569943 
 * Guilherme Figueira Velloso — RM 568827
 * José Augusto Ribeiro Freire Manfrinato — RM 571151
