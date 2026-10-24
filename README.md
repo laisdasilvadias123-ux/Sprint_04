@@ -26,3 +26,8 @@ O projeto resolve o problema do controle operacional de recargas em tempo real, 
 - Busca sequencial otimizada de sessões na memória RAM por ID.
 - Ordenação por valor total de tarifa (Bubble Sort) para emissão de relatórios operacionais.
 - Exibição de métricas estatísticas e consolidação de dados da estação.
+----------------------------------------------------------------------------------
+
+Link do video: 
+
+https://youtu.be/dhoZ26U4SNk?is=YM9BWXfjW76hrswR
